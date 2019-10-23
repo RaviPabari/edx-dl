@@ -17,3 +17,4 @@ you have at least one contribution to the project.
 * George Monkey
 * Ismaël Mejía
 * Rogério Theodoro de Brito
+* Mer Gopal
